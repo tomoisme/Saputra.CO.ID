@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="{{ .Language }}" class="no-js">
+<head>
+		<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+		<!-- TITLE -->
+		<title>{{.Title}}</title>
+        
+        <!-- META TAGS -->
+        <meta name="keywords" content="agriculture, eco, farm, food, Fresh Fruit, fruits, healthy food, landscape, organic, organic food, products, vegetables">
+
+		<!--  FAVICON  -->
+        <link rel="shortcut icon" href="{{ .Site.BaseURL }}/img/master/favicon.png">
+             
+        <!-- REVOLUTION ADDONS -->
+        <link href="{{ .Site.BaseURL }}/http://fonts.googleapis.com/css?family=Roboto%3A700%2C300" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
+		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/revolution/fonts/font-awesome/css/font-awesome.css">
+		
+        <!-- REVOLUTION STYLE SHEETS -->
+		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/revolution/css/settings.css">
+		
+        <!-- REVOLUTION LAYERS STYLES -->
+		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/revolution/css/layers.css">
+		
+        <!-- REVOLUTION NAVIGATION STYLES -->
+		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/revolution/css/navigation.css">
+        
+        <!-- LOADING FONTS AND ICONS -->
+		<link href="{{ .Site.BaseURL }}/http://fonts.googleapis.com/css?family=Open+Sans:400%7CMontserrat:600%2C400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+        
+        <!-- BOOTSTRAP FRAMEWORK STYLES -->
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/bootstrap.min.css">
+        
+        <!-- FONT AWESOME ICONS LIBRARY -->
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}/fonts/css/all.min.css">
+        
+        <!-- MAIN CSS STYLE SHEET -->
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/navigation.css">
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/stylesheet.css">
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/responsive.css">
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/farmite.min.css"> 
+        
+        <!-- MODERNIZR LIBRARY -->
+        <script src="{{ .Site.BaseURL }}/js/modernizr-custom.js"></script>
+        
+	</head>
+    
+<body>
+
+    <!-- PRELOADER START -->
+    <div id="loader-wrapper">
+        <div class="loader">
+           <div class="ball"></div>
+           <div class="ball"></div>
+           <div class="ball"></div>
+           <div class="ball"></div>
+           <div class="ball"></div>
+           <div class="ball"></div>
+           <div class="ball"></div>
+           <div class="ball"></div>
+           <div class="ball"></div>
+           <div class="ball"></div>
+        </div> 
+    </div>
+    <!-- PRELOADER END -->
+    
+<!-- HEADER START -->
+<header>
+    <!-- NAVBAR START -->
+    <div class="container main-nav">
+        <nav id="navigation1" class="navigation">
+            <div class="nav-header">
+                <a class="nav-logo" href="{{ .Site.BaseURL }}/index.html">
+                    <img src="{{ .Site.BaseURL }}/img/master/logo.png"  class="white-logo" alt="">
+                    <img src="{{ .Site.BaseURL }}/img/master/dark-logo.png"  class="dark-logo" alt="">
+                </a>
+                <div class="nav-toggle"></div>
+            </div>
+            <div class="nav-menus-wrapper">
+                <ul class="nav-menu align-to-right">
+                    <li><a href="{{ .Site.BaseURL }}/#">HOME</a>
+                        <ul class="nav-dropdown">
+                            <li><a href="{{ .Site.BaseURL }}/index-2.html">Homepage One</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/home-v2.html">Homepage Two</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/home-v3.html">Homepage Three</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{{ .Site.BaseURL }}/#">PAGES</a>
+                        <ul class="nav-dropdown">
+                            <li><a href="{{ .Site.BaseURL }}/about-us-1.html">About Us One</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/about-us-2.html">About Us Two</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/team.html">Our Team</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/error-page.html">Error Page</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/faq.html">FAQ</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{{ .Site.BaseURL }}/#">SERVICES</a>
+                        <ul class="nav-dropdown">
+                            <li><a href="{{ .Site.BaseURL }}/land-preservations.html">Land Preservation</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/farm-plans.html">Farm Plans</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/farm-inspection.html">Farm inspection</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/soil-analysis.html">Soil analysis</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/equipment-installation.html">Equipment Installation</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/water-managment.html">Water Managment</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{{ .Site.BaseURL }}/#">GALLERY</a>
+                        <ul class="nav-dropdown">
+                            <li><a href="{{ .Site.BaseURL }}/project-grid-1.html">Gallery Grid One</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/project-grid-2.html">Gallery Grid Two</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{{ .Site.BaseURL }}/#">BLOGS</a>
+                        <ul class="nav-dropdown">
+                            <li><a href="{{ .Site.BaseURL }}/blog-grid.html">Blog Grid</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/blog-left-sidebar.html">Blog Left Sidebar</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/blog-right-sidebar.html">Blog Right Sidebar</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/blog-single.html">Blog Single</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{{ .Site.BaseURL }}/#">CONTACT</a>
+                        <ul class="nav-dropdown">
+                            <li><a href="{{ .Site.BaseURL }}/contact-us-1.html">Contact Us One</a></li>
+                            <li><a href="{{ .Site.BaseURL }}/contact-us-2.html">Contact Us Two</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <!-- NAVBAR END -->
