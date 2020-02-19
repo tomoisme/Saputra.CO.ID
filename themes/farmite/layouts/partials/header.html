@@ -9,7 +9,7 @@
 		<title>{{.Title}}</title>
         
         <!-- META TAGS -->
-        <meta name="keywords" content="agriculture, eco, farm, food, Fresh Fruit, fruits, healthy food, landscape, organic, organic food, products, vegetables">
+        <meta name="description" content="{{ .Description}}">
 
 		<!--  FAVICON  -->
         <link rel="shortcut icon" href="{{ .Site.BaseURL }}/img/master/favicon.png">
@@ -73,7 +73,7 @@
     <div class="container main-nav">
         <nav id="navigation1" class="navigation">
             <div class="nav-header">
-                <a class="nav-logo" href="{{ .Site.BaseURL }}/index.html">
+                <a class="nav-logo" href="{{ .Site.BaseURL }}">
                     <img src="{{ .Site.BaseURL }}/img/master/logo-saputra-light.png"  class="white-logo" alt="">
                     <img src="{{ .Site.BaseURL }}/img/master/logo-saputra-dark.png"  class="dark-logo" alt="">
                 </a>
@@ -81,22 +81,21 @@
             </div>
             <div class="nav-menus-wrapper">
                 <ul class="nav-menu align-to-right">
-                    <li><a href="{{ .Site.BaseURL }}/#">HOME</a>
+                    <li><a href="{{ .Site.BaseURL }}/#">Produk</a>
                         <ul class="nav-dropdown">
-                            <li><a href="{{ .Site.BaseURL }}/index-2.html">Homepage One</a></li>
-                            <li><a href="{{ .Site.BaseURL }}/home-v2.html">Homepage Two</a></li>
-                            <li><a href="{{ .Site.BaseURL }}/home-v3.html">Homepage Three</a></li>
+                            <li>
+                                <a href="#">Saputra Nutrient</a>
+                                <ul class="nav-dropdown">
+                                    <li><a href="#">Agriculture</a></li>
+                                    <li><a href="#">Livestock</a></li>
+                                    <li><a href="#">Poultry</a></li>
+                                    <li><a href="#">Aquatic</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Saputra Batu Bara</a></li>
                         </ul>
                     </li>
-                    <li><a href="{{ .Site.BaseURL }}/#">PAGES</a>
-                        <ul class="nav-dropdown">
-                            <li><a href="{{ .Site.BaseURL }}/about-us-1.html">About Us One</a></li>
-                            <li><a href="{{ .Site.BaseURL }}/about-us-2.html">About Us Two</a></li>
-                            <li><a href="{{ .Site.BaseURL }}/team.html">Our Team</a></li>
-                            <li><a href="{{ .Site.BaseURL }}/error-page.html">Error Page</a></li>
-                            <li><a href="{{ .Site.BaseURL }}/faq.html">FAQ</a></li>
-                        </ul>
-                    </li>
+                    <li><a href="{{ .Site.BaseURL }}/#">Downloads</a></li>
                     <li><a href="{{ .Site.BaseURL }}/#">SERVICES</a>
                         <ul class="nav-dropdown">
                             <li><a href="{{ .Site.BaseURL }}/land-preservations.html">Land Preservation</a></li>
