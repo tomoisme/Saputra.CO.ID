@@ -1,4 +1,14 @@
-baseURL = "http://saputra.co.id/dev/"
 languageCode = "id-ID"
-tag = "tag"
+categories = "category"
+tags = "tag"
 theme = "farmite"
+
+[languages]
+    [languages.id]
+        contentDir = "content/indonesia"
+        baseURL = ""
+        weight = 1
+    [languages.en]
+        contentDir = "content/english"
+        baseURL = ""
+        weight = 2
