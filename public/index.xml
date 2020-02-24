@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saputra Global Harvest on </title>
+    <link>http://saputra.co.id/dev/</link>
+    <description>Recent content in Saputra Global Harvest on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Thu, 20 Feb 2020 00:51:20 +0700</lastBuildDate>
+    
+	<atom:link href="http://saputra.co.id/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

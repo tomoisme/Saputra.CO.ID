@@ -1,4 +1,4 @@
-baseURL = "https://saputra.co.id"
+baseURL = "http://saputra.co.id/dev/"
 languageCode = "id-ID"
 tag = "tag"
 theme = "farmite"
