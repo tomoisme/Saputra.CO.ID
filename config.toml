@@ -7,8 +7,8 @@ theme = "farmite"
     [languages.id]
         contentDir = "content/indonesia"
         baseURL = ""
-        weight = 1
+        weight = 2
     [languages.en]
         contentDir = "content/english"
         baseURL = ""
-        weight = 2
+        weight = 1

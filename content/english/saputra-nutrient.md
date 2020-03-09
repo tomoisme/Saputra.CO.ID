@@ -1,6 +1,7 @@
 ---
 title: "Saputra Nutrient"
-date: 2020-02-24T22:57:05+07:00
+date: 2020-03-07T17:23:57+07:00
 draft: false
+layout: "en/saputra-nutrient"
 ---
 
