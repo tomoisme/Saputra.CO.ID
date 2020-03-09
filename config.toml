@@ -6,9 +6,9 @@ theme = "farmite"
 [languages]
     [languages.id]
         contentDir = "content/indonesia"
-        baseURL = ""
+        baseURL = "/dev/id/"
         weight = 2
     [languages.en]
         contentDir = "content/english"
-        baseURL = ""
+        baseURL = "/dev/en/"
         weight = 1

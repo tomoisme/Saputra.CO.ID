@@ -5,5 +5,3 @@ draft: false
 description: "Pupuk generasi kelima"
 layout: "en/home"
 ---
-
-English
