@@ -1043,12 +1043,10 @@ p.active{
 }
 
 .ws-lefside{
-    height: 550px; 
     background: #46866C;
     margin-top: 80px;
     position: relative;
     background-image: url("../img/images/pattern.jpg");
-    height: 550px; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
