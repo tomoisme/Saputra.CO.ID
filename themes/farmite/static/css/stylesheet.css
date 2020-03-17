@@ -4878,7 +4878,7 @@ hr.dotted{
 }
 
 .grid-col-img{ 
-    background-image: url("../img/images/service-grid-1.jpg");
+    background-image: url("../img/images/product-img-plant.jpg");
     height: 400px; 
     background-position: center;
     background-repeat: no-repeat;
@@ -4901,7 +4901,7 @@ hr.dotted{
 }
 
 .service-grid-2{ 
-    background-image: url("../img/images/service-grid-2.jpg");
+    background-image: url("../img/images/product-img-livestock.jpg");
     height: 400px; 
     background-position: center;
     background-repeat: no-repeat;
@@ -4919,7 +4919,7 @@ hr.dotted{
 }
 
 .service-grid-4{ 
-    background-image: url("../img/images/service-grid-4.jpg");
+    background-image: url("../img/images/product-img-fisheries.jpg");
     height: 400px; 
     background-position: center;
     background-repeat: no-repeat;
