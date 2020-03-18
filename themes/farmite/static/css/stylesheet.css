@@ -146,13 +146,22 @@ h6, .h6 {
   color: #0A178F;
 }
 
-p {
+p, td {
   font-size: 15px;
   font-family: 'Poppins', sans-serif;
   color: #797979;
   font-weight: 400;
   line-height: 2;
   margin-bottom: 0rem;
+}
+
+th {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: #444444;
+    font-weight: 400;
+    line-height: 2;
+    margin-bottom: 0rem;
 }
 
 a {
