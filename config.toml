@@ -10,5 +10,5 @@ theme = "farmite"
         weight = 2
     [languages.en]
         contentDir = "content/english"
-        baseURL = "/dev/en"
+        baseURL = ""
         weight = 1
