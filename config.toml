@@ -6,9 +6,9 @@ theme = "farmite"
 [languages]
     [languages.id]
         contentDir = "content/indonesia"
-        baseURL = "/dev/id"
+        baseURL = "https://saputra.co.id/dev/id"
         weight = 2
     [languages.en]
         contentDir = "content/english"
-        baseURL = ""
+        baseURL = "https://saputra.co.id/dev/en"
         weight = 1
