@@ -821,6 +821,33 @@ footer hr.divider{
     position: relative;
 }
 
+.pages-header-livestock{
+    height: 100%;
+    background-image: url("../img/images/saputra-livestock-background-page.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.pages-header-poultry{
+    height: 100%;
+    background-image: url("../img/images/saputra-poultry-background-page.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.pages-header-fisheries{
+    height: 100%;
+    background-image: url("../img/images/saputra-fisheries-background-page.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
 .sections{
     height: 500px;
     margin-top: -160px;   
