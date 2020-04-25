@@ -546,6 +546,14 @@ p.phone::before {
     color: #EEC344;
 }
 
+p.mphone::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;   
+    content: "\f10b";
+    margin-right: 15px;
+    color: #EEC344;
+}
+
 p.email::before {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;   
