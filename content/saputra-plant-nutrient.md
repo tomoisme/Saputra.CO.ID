@@ -3,5 +3,5 @@ title: "Saputra Plant Nutrient"
 date: 2020-02-24T22:42:43+07:00
 draft: false
 description: 
-layout: "en/saputra-plant-nutrient"
+layout: "saputra-plant-nutrient"
 ---

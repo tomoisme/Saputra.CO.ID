@@ -1,14 +1,16 @@
+baseURL = "https://www.saputra.co.id"
 languageCode = "id-ID"
 categories = "category"
 tags = "tag"
 theme = "farmite"
+paginate = 1
 
-[languages]
-    [languages.id]
-        contentDir = "content/indonesia"
-        baseURL = "https://saputra.co.id/id"
-        weight = 2
-    [languages.en]
-        contentDir = "content/english"
-        baseURL = "https://saputra.co.id"
-        weight = 1
+# [languages]
+#     [languages.id]
+#         contentDir = "content/indonesia"
+#         baseURL = "https://saputra.co.id/id"
+#         weight = 2
+#     [languages.en]
+#         contentDir = "content/english"
+#         baseURL = "https://saputra.co.id"
+#         weight = 1

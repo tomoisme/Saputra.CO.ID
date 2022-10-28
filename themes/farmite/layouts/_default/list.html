@@ -1,0 +1,70 @@
+{{ partial "header-en-page" . }}
+
+<div class="sections">
+    <div class="container">
+        <div class="pages-title">
+            <h1>{{ .Title }}</h1>
+            <!-- Breadcrumbs -->
+            <ul class="breadcrumb">
+                <li>Home</li>
+                <li class="current">{{ .Title }}</li>
+            </ul>
+            <!--/ Breadcrumbs -->
+        </div>
+    </div>
+</div>
+</header>
+
+<section>
+    <div class="container">
+        <div class="row">
+            {{ range .Paginator.Pages }}
+            <!-- BLOG CONTENT START -->
+            <div class="col-md-12">
+                <div class="blog-grid text-center">
+
+                    {{ $post_permalink := .Permalink }} {{ with .Resources.Match "fimg" }} {{ range . }} {{ $resized := (.Resize "945x") }}
+                    <figure class="bg-preview-pic">
+                        <a href="{{ $post_permalink }}">
+                            <img src="{{ $resized.Permalink }}" alt="{{ $resized.Title }}">
+                        </a>
+                    </figure>
+                    {{ end }} {{ else }}
+                    <figure class="bg-preview-pic">
+                        <a href="#">
+                            <img src="{{ .Site.BaseURL }}/img/images/blogs-preview.jpg" alt="{{ .Title }}">
+                        </a>
+                    </figure>
+                    {{ end }}
+                    <div class="bg-caption">
+                        <div class="caption-content">
+                            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                            <div class="post-details">
+                                <ul>
+                                    <li>
+                                        <figure class="post-author-avatar"><img src="{{ .Site.BaseURL }}/img/images/team-avatar.jpg" alt=""></figure>
+                                    </li>
+                                    <li><a href="#">Admin</a></li>
+                                    <li class="date">{{ .Date.Format "02 Jan 2006" }}</li>
+
+                                </ul>
+                            </div>
+                            <div class="btn-more">
+                                <a href="{{ .Permalink }}" class="btn btn-hover-corner">Read More</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- BLOG CONTENT END -->
+            {{ end }}
+        </div>
+
+        {{ partial "smartpagination" . }}
+
+    </div>
+</section>
+
+
+{{ partial "footer" . }}

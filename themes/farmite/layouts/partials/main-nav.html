@@ -11,8 +11,20 @@
         <div class="nav-menus-wrapper">
             <ul class="nav-menu align-to-right">
                 <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-                <li><a href="{{ .Site.BaseURL }}/#">Products</a>
+                <li>
+                    <a href="{{ .Site.BaseURL }}/#">Products</a>
                     <ul class="nav-dropdown">
+                        <li>
+                            <a href="#">Celltilizer</a>
+                            <ul class="nav-dropdown">
+                                <li>
+                                    <a href="{{ .Site.BaseURL }}/celltilizer-vegetative">Vegetative Celltilizer</a>
+                                </li>
+                                <li>
+                                    <a href="{{ .Site.BaseURL }}/celltilizer-generative">Generative Celltilizer</a>
+                                </li>
+                            </ul>
+                        </li>
                         <li>
                             <a href="{{ .Site.BaseURL }}/saputra-nutrient">Saputra Nutrient</a>
                             <ul class="nav-dropdown">
@@ -39,6 +51,9 @@
                     <a href="#">Downloads</a>
                     <ul class="nav-dropdown">
                         <li>
+                            <a href="{{ .Site.BaseURL }}/downloads/ComPro_SGH.pdf">Company Profile</a>
+                        </li>
+                        <li>
                             <a href="#">Certificate Lab</a>
                             <ul class="nav-dropdown">
                                 <li>
@@ -46,16 +61,13 @@
                                         Nutrient</a>
                                 </li>
                                 <li>
-                                    <a
-                                        href="{{ .Site.BaseURL }}/downloads/test-result-ipb-protein-digest.jpg">Digestibility</a>
+                                    <a href="{{ .Site.BaseURL }}/downloads/test-result-ipb-protein-digest.jpg">Digestibility</a>
                                 </li>
                                 <li>
-                                    <a
-                                        href="{{ .Site.BaseURL }}/downloads/test-result-ipb-vitamin-2012.jpg">Vitamins</a>
+                                    <a href="{{ .Site.BaseURL }}/downloads/test-result-ipb-vitamin-2012.jpg">Vitamins</a>
                                 </li>
                                 <li>
-                                    <a
-                                        href="{{ .Site.BaseURL }}/downloads/test-result-pacific-lab-antibiotic-carcinogenic-free.jpg">Antibiotics
+                                    <a href="{{ .Site.BaseURL }}/downloads/test-result-pacific-lab-antibiotic-carcinogenic-free.jpg">Antibiotics
                                         & Carsinogenic Free</a>
                                 </li>
                                 <li>
@@ -67,11 +79,9 @@
                         <li>
                             <a href="#">Patent</a>
                             <ul class="nav-dropdown">
-                                <li><a
-                                        href="{{ .Site.BaseURL }}/downloads/patent/sertifikat-patent-nutrisi-saputra.jpg">Saputra
+                                <li><a href="{{ .Site.BaseURL }}/downloads/patent/sertifikat-patent-nutrisi-saputra.jpg">Saputra
                                         Nutrient Patent</a></li>
-                                <li><a
-                                        href="{{ .Site.BaseURL }}/downloads/patent/sertifikat-patent-futura-coal-fertilizer.jpg">Futura
+                                <li><a href="{{ .Site.BaseURL }}/downloads/patent/sertifikat-patent-futura-coal-fertilizer.jpg">Futura
                                         Coal Fertilizer Patent</a></li>
                                 <li>
                                     <a href="{{ .Site.BaseURL }}/downloads/patent/futura-us-patent.pdf">
@@ -83,12 +93,16 @@
                         <li>
                             <a href="#">MSDS</a>
                             <ul class="nav-dropdown">
+                                <li><a href="{{ .Site.BaseURL }}/downloads/msds/MSDS_CELL_GENERATIVE_Export_Konten.pdf">MSDS
+                                        Celltilizer Generative</a></li>
+                                <li><a href="{{ .Site.BaseURL }}/downloads/msds/MSDS_CELL_VEGETATIVE_Export_Konten.pdf">MSDS
+                                    Celltilizer Vegetative</a></li>
+                                <li><a href="{{ .Site.BaseURL }}/downloads/msds/MSDS FUTURA_Export_Konten.pdf">MSDS
+                                        Futura Coal Fertilizer</a></li>
                                 <li><a href="{{ .Site.BaseURL }}/downloads/msds/MSDS-NUTRISI-SAPUTRA.pdf">MSDS
                                         Saputra Nutrient</a></li>
                                 <li><a href="{{ .Site.BaseURL }}/downloads/msds/MSDS-NUTRISI-SAPUTRA-LIQUID.pdf">MSDS
                                         Saputra Nutrient Liquid</a></li>
-                                <li><a href="{{ .Site.BaseURL }}/downloads/msds/MSDS-PUPUK-BATUBARA.pdf">MSDS
-                                        Futura Coal Fertilizer</a></li>
                             </ul>
                         </li>
                         <!-- 
@@ -97,30 +111,25 @@
                         <li>
                             <a href="#">Field Result</a>
                             <ul class="nav-dropdown">
-                                <li><a
-                                        href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-plant-nutrient.pdf">Saputra
+                                <li><a href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-plant-nutrient.pdf">Saputra
                                         Plant Nutrient</a></li>
-                                <li><a
-                                        href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-livestock-nutrient.pdf">Saputra
+                                <li><a href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-livestock-nutrient.pdf">Saputra
                                         Livestock Nutrient</a></li>
-                                <li><a
-                                        href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-poultry-nutrient.pdf">Saputra
+                                <li><a href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-poultry-nutrient.pdf">Saputra
                                         Poultry Nutrient</a></li>
-                                <li><a
-                                        href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-fisheries-nutrient.pdf">Saputra
+                                <li><a href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-fisheries-nutrient.pdf">Saputra
                                         Fisheries Nutrient</a></li>
-                                <li><a
-                                        href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-plant-nutrient.pdf">Futura
+                                <li><a href="{{ .Site.BaseURL }}/downloads/field-result/field-result-saputra-plant-nutrient.pdf">Futura
                                         Coal Fertilizer</a></li>
                             </ul>
                         </li>
                     </ul>
                 </li>
-                <!-- 
+
                 <li>
-                    <a href="{{ .Site.BaseURL }}/faq/">FAQs</a>
+                    <a href="{{ .Site.BaseURL }}/news/">News</a>
                 </li>
-                 -->
+
                 <li><a href="{{ .Site.BaseURL }}/contact-us">Contact Us</a></li>
             </ul>
         </div>
