@@ -32,7 +32,7 @@
                     {{ end }} {{ else }}
                     <figure class="bg-preview-pic">
                         <a href="#">
-                            <img src="{{ .Site.BaseURL }}/img/images/blogs-preview.jpg" alt="{{ .Title }}">
+                            <img src="{{ .Site.BaseURL }}/img/images/default-news-image.jpg" alt="{{ .Title }}">
                         </a>
                     </figure>
                     {{ end }}
@@ -42,11 +42,10 @@
                             <div class="post-details">
                                 <ul>
                                     <li>
-                                        <figure class="post-author-avatar"><img src="{{ .Site.BaseURL }}/img/images/team-avatar.jpg" alt=""></figure>
+                                        <figure class="post-author-avatar"><img src="{{ .Site.BaseURL }}/img/master/logo-saputra.png" alt="admin saputra.co.id"></figure>
                                     </li>
                                     <li><a href="#">Admin</a></li>
                                     <li class="date">{{ .Date.Format "02 Jan 2006" }}</li>
-
                                 </ul>
                             </div>
                             <div class="btn-more">
