@@ -3,7 +3,7 @@ languageCode = "id-ID"
 categories = "category"
 tags = "tag"
 theme = "farmite"
-paginate = 1
+paginate = 3
 
 # [languages]
 #     [languages.id]

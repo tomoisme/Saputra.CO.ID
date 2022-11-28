@@ -1,10 +1,10 @@
 ---
-title: "Pengiriman Nutrisi Saputra Dan Pupuk Batu Bara (Futura) ke NASENI - Nigeria"
+title: "Export Coal Fertilizer To NASENI-Nigeria"
 date: 2022-08-27T17:00:01+07:00
 draft: false
 layout: "single-news"
 resources:
-- src: "pengiriman-nutrisi-saputra-ke-naseni-nigeria.jpg"
+- src: "foto-pelepasan-pengiriman-barang-ke-naseni-nigeria.jpg"
   title: "Pengiriman Nutrisi Saputra Dan Pupuk Batu Bara Futura Ke NASENI-Nigeria"
   name: fimg
 ---

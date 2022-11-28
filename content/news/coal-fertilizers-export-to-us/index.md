@@ -1,5 +1,5 @@
 ---
-title: "Pengiriman Pupuk Batu Bara Futura Ke USA"
+title: "Export Coal Fertilizers To US"
 date: 2022-02-09T17:05:48+07:00
 draft: false
 layout: "single-news"
@@ -7,6 +7,14 @@ resources:
 - src: "foto-pelepasan-pengiriman-ke-glogens-usa.jpg"
   title: "Pelepasan Pengiriman Barang Ke Glogens USA"
   name: fimg
+---
+
+JAKARTA - Good news comes from the national fertilizer industry. Coal fertilizer by R. Umar Hasan Saputra was officially exported to the United States on Wednesday, February 9.
+
+As previously reported, coal fertilizer made by this nation's children has received a patent from the United States government in 2020. Until now, the use of this fertilizer on various plants has been tried in the United States, and the results are very positive.
+
+Sumber: https://voi.id/en/ekonomi/132871/coal-fertilizer-made-in-indonesia-officially-exported-to-the-united-states
+
 ---
 
 PUPUK batu bara karya R. Umar Hasan Saputra resmi diekspor ke Amerika Serikat (AS) pada Rabu (9/2) ini.
@@ -18,14 +26,6 @@ Sumber: https://mediaindonesia.com/ekonomi/470221/pupuk-batu-bara-karya-anak-ban
 Pupuk batu bara karya R. Umar Hasan Saputra resmi diekspor ke Amerika Serikat (AS) pada Rabu (9/2/2022). Pupuk batu bara karya anak bangsa ini telah mendapatkan paten dari pemerintah Amerika Serikat tahun 2020. Sampai saat ini aplikasinya pada berbagai tanaman terus dicobakan di sana, dan hasilnya sangat positif.
 
 Sumber: https://www.ogindonesia.com/2022/02/pupuk-batu-bara-karya-anak-bangsa.html
-
----
-
-JAKARTA - Good news comes from the national fertilizer industry. Coal fertilizer by R. Umar Hasan Saputra was officially exported to the United States on Wednesday, February 9.
-
-As previously reported, coal fertilizer made by this nation's children has received a patent from the United States government in 2020. Until now, the use of this fertilizer on various plants has been tried in the United States, and the results are very positive.
-
-Sumber: https://voi.id/en/ekonomi/132871/coal-fertilizer-made-in-indonesia-officially-exported-to-the-united-states
 
 ---
 

@@ -21,8 +21,7 @@
             {{ range .Paginator.Pages }}
             <!-- BLOG CONTENT START -->
             <div class="col-md-12">
-                <div class="blog-grid text-center">
-
+                <div class="blog-grid">
                     {{ $post_permalink := .Permalink }} {{ with .Resources.Match "fimg" }} {{ range . }} {{ $resized := (.Resize "945x") }}
                     <figure class="bg-preview-pic">
                         <a href="{{ $post_permalink }}">
@@ -48,10 +47,12 @@
                                     <li class="date">{{ .Date.Format "02 Jan 2006" }}</li>
                                 </ul>
                             </div>
+                            <!-- 
                             <div class="btn-more">
                                 <a href="{{ .Permalink }}" class="btn btn-hover-corner">Read More</a>
                             </div>
-
+                            -->
+                            <h5><a href="{{ .Permalink }}">Read More</a></h5>
                         </div>
                     </div>
                 </div>
