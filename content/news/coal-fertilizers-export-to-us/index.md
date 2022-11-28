@@ -7,6 +7,7 @@ resources:
 - src: "foto-pelepasan-pengiriman-ke-glogens-usa.jpg"
   title: "Pelepasan Pengiriman Barang Ke Glogens USA"
   name: fimg
+summary: "JAKARTA - Good news comes from the national fertilizer industry. Coal fertilizer by R. Umar Hasan Saputra was officially exported to the United States on Wednesday, February 9."
 ---
 
 JAKARTA - Good news comes from the national fertilizer industry. Coal fertilizer by R. Umar Hasan Saputra was officially exported to the United States on Wednesday, February 9.

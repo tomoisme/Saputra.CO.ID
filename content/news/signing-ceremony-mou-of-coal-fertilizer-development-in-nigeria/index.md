@@ -7,6 +7,7 @@ resources:
 - src: "pengiriman-nutrisi-saputra-ke-naseni-nigeria.jpg"
   title: "Pengiriman Nutrisi Saputra Dan Pupuk Batu Bara Futura Ke NASENI-Nigeria"
   name: fimg
+summary: "The National Agency for Science and Engineering Infrastructure (NASENI) has signed a Memorandum of Understanding (MoU), with the PT Saputra Global Harvest Indonesia, on transfer of Technology on Saputra products, especially its innovative coal fertilizer."
 ---
 
 The National Agency for Science and Engineering Infrastructure (NASENI) has signed a Memorandum of Understanding (MoU), with the PT Saputra Global Harvest Indonesia, on transfer of Technology on Saputra products, especially its innovative coal fertilizer.

@@ -7,6 +7,7 @@ resources:
 - src: "foto-pelepasan-pengiriman-barang-ke-naseni-nigeria.jpg"
   title: "Pengiriman Nutrisi Saputra Dan Pupuk Batu Bara Futura Ke NASENI-Nigeria"
   name: fimg
+summary: "PT Bursatani Global Niaga as the producer and PT Saputra Global Harvest as the company responsible for export affairs, have resumed exporting coal fertilizer this month to Nigeria, after the United States and Zimbabwe."
 ---
 
 TRIBUNNEWS.COM - Produk pupuk batubara karya R.Umar Hasan Saputra memperluas pasar ekspornya, di mana kali ini menembus pasar Nigeria.
