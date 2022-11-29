@@ -14,9 +14,9 @@ TRIBUNNEWS.COM - Produk pupuk batubara karya R.Umar Hasan Saputra memperluas pas
 
 PT Bursatani Global Niaga sebagai produsen dan PT Saputra Global Harvest sebagai perusahaan yang bertanggungjawab untuk urusan ekspor, kembali merealisasikan ekspor pupuk batubara pada bulan ini dengan tujuan negara Nigeria, setelah Amerika Serikat dan Zimbabwe.
 
-Sumber: https://www.tribunnews.com/bisnis/2022/08/12/setelah-ekspor-ke-amerika-pupuk-batubara-kini-mulai-tembus-pasar-nigeria
+Sumber: [tribunnews.com](https://www.tribunnews.com/bisnis/2022/08/12/setelah-ekspor-ke-amerika-pupuk-batubara-kini-mulai-tembus-pasar-nigeria)
 
-Sumber: https://obligasi.id/setelah-ekspor-ke-amerika-pupuk-batubara-kini-mulai-tembus-pasar-nigeria-385984.html
+Sumber: [obligasi.id](https://obligasi.id/setelah-ekspor-ke-amerika-pupuk-batubara-kini-mulai-tembus-pasar-nigeria-385984.html)
 
 --- 
 
@@ -24,7 +24,7 @@ SUKABUMI, investor.id - Pangan adalah kebutuhan dasar manusia yang paling pentin
 
 Pupuk batubara karya R. Umar Hasan Saputra, yang telah mendapatkan paten di Amerika Serikat dan sebagai satu-satunya teknologi di dunia saat ini, makin diminati banyak negara.
 
-Sumber: https://investor.id/bumee/pupuk-batubara-karya-anak-bangsa-kini-diekspor-ke-nigeria
+Sumber: [investor.id](https://investor.id/bumee/pupuk-batubara-karya-anak-bangsa-kini-diekspor-ke-nigeria)
 
 ---
 
@@ -32,7 +32,7 @@ PANGAN adalah kebutuhan dasar manusia yang paling penting dan hampir tidak dapat
 
 Pupuk batubara karya R. Umar Hasan Saputra, yang telah mendapatkan paten di Amerika Serikat dan sebagai satu-satunya teknologi di dunia saat ini, makin diminati banyak negara.
 
-Sumber: https://mediaindonesia.com/ekonomi/514035/pupuk-batubara-karya-anak-bangsadiekspor-ke-nigeria
+Sumber: [mediaindonesia.com](https://mediaindonesia.com/ekonomi/514035/pupuk-batubara-karya-anak-bangsadiekspor-ke-nigeria)
 
 ---
 
@@ -40,10 +40,10 @@ Suara.com - Pangan adalah kebutuhan dasar manusia yang paling penting yang hampi
 
 Pupuk batubara karya R. Umar Hasan Saputra, yang telah mendapatkan paten di Amerika Serikat dan sebagai satu-satunya teknologi di dunia saat ini, makin diminati banyak negara.
 
-Sumber: https://www.suara.com/bisnis/2022/08/12/100457/pupuk-batubara-karya-anak-bangsa-kini-diekspor-ke-nigeria
+Sumber: [suara.com](https://www.suara.com/bisnis/2022/08/12/100457/pupuk-batubara-karya-anak-bangsa-kini-diekspor-ke-nigeria)
 
 ---
 
 JAKARTA, KOMPAS.com - PT Bursatani Global Niaga sebagai produsen pupuk bersama PT Saputra Global Harvest sebagai perusahaan yang bertanggungjawab untuk urusan ekspor, kembali merealisasikan ekspor pupuk batu bara ke Nigeria. Adapun total pupuk yang dieskpor sebanyak 17 ton. Pemilik Paten Pupuk Batubara Saputra mengatakan, Nigeria adalah negara ketiga yang menjadi tujuan ekspor pupuk batu bara, setelah Amerika Serikat dan Zimbabwe.
 
-Sumber: https://money.kompas.com/read/2022/08/12/120000126/perusahaan-lokal-ini-ekspor-17-ton-pupuk-ke-nigeria
+Sumber: [kompas.com](https://money.kompas.com/read/2022/08/12/120000126/perusahaan-lokal-ini-ekspor-17-ton-pupuk-ke-nigeria)

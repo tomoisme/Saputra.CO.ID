@@ -12,10 +12,12 @@ summary: "The National Agency for Science and Engineering Infrastructure (NASENI
 
 The National Agency for Science and Engineering Infrastructure (NASENI) has signed a Memorandum of Understanding (MoU), with the PT Saputra Global Harvest Indonesia, on transfer of Technology on Saputra products, especially its innovative coal fertilizer.
 
-https://nnn.ng/naseni-signs-mou-with-indonesian-coy-to-construct-coal-fertilizer-plant/
+Source:
 
-https://naturenews.africa/naseni-signs-mou-with-indonesian-coy-to-construct-coal-fertilizer-plant/
+[nnn.ng](https://nnn.ng/naseni-signs-mou-with-indonesian-coy-to-construct-coal-fertilizer-plant/)
 
-https://libertytvradio.com/naseni-signs-mou-with-indonesian-coy-to-construct-coal-fertilizer-plant/
+[naturenews.africa](https://naturenews.africa/naseni-signs-mou-with-indonesian-coy-to-construct-coal-fertilizer-plant/)
 
-https://allnews.ng/news/naseni-signs-mou-with-indonesian-company-to-construct-coal-fired-fertiliser-plant
+[libertytvradio.com](https://libertytvradio.com/naseni-signs-mou-with-indonesian-coy-to-construct-coal-fertilizer-plant/)
+
+[allnews.ng](https://allnews.ng/news/naseni-signs-mou-with-indonesian-company-to-construct-coal-fired-fertiliser-plant)
