@@ -5524,3 +5524,15 @@ hr.dotted {
 .blog-content p a:hover {
     color: #333;
 }
+
+.banner img {
+    width: 100%;
+}
+
+.clients-logo img {
+    padding: 20px 0;
+}
+
+img {
+    width:100%;
+}
