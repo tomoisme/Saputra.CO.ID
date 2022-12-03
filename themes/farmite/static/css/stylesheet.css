@@ -674,6 +674,15 @@ p.mphone::before {
     color: #EEC344;
 }
 
+p.mwa::before {
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 900;
+    /* content: "\f232"; */
+    content: "\f232";
+    margin-right: 15px;
+    color: #EEC344;
+}
+
 p.email::before {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
@@ -2807,6 +2816,10 @@ hr.contact-divider {
     color: #EEC344;
 }
 
+.bc-icon .fab {
+    color: #EEC344;
+}
+
 .bc-caption {
     width: 70%;
     padding: 2px 0px;
@@ -2814,6 +2827,15 @@ hr.contact-divider {
 
 .bc-caption p {
     color: #333;
+}
+
+.bc-caption a {
+    color: #EEC344;
+}
+
+.bc-caption a:hover {
+    color: #333;
+    text-decoration: underline;
 }
 
 .customize-contact-alt {
@@ -5303,8 +5325,8 @@ hr.dotted {
 }
 
 .box-element .fas,
-.fab,
-.far {
+.box-element .fab,
+.box-element .far {
     font-size: 45px;
     color: #fff;
     margin: 15px;
