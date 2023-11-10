@@ -21,19 +21,6 @@
         <div class="row">
             <div class="col-lg-12 col-xl-12">
                 <div class="blog-content">
-                    {{ $post_permalink := .Permalink }} {{ with .Resources.Match "fimg" }} {{ range . }} {{ $resized := (.Resize "945x") }}
-                    <figure class="bg-preview-pic">
-                        <a href="{{ $post_permalink }}">
-                            <img src="{{ $resized.Permalink }}" alt="{{ $resized.Title }}">
-                        </a>
-                    </figure>
-                    {{ end }} {{ else }}
-                    <figure class="bg-preview-pic">
-                        <a href="#">
-                            <img src="{{ .Site.BaseURL }}/img/images/default-news-image.jpg" alt="{{ .Title }}">
-                        </a>
-                    </figure>
-                    {{ end }}
                     <h2>{{ .Title }}</h2>
                     <div class="post-details">
                         <ul>
