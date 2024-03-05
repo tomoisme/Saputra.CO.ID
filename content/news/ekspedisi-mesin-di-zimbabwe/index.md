@@ -4,9 +4,9 @@ date: 2024-03-05T13:21:51+07:00
 draft: false
 layout: "single-news"
 resources:
-- src: ""
+- src: "padi.jpg"
   title: ""
   name: fimg
-summary: ""
+summary: "ini adalah tentang ekspedisi mesin di zimbabwe"
 ---
 
