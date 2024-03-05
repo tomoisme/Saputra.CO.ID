@@ -11,3 +11,5 @@ summary: "ini adalah tentang ekspedisi mesin di zimbabwe"
 ---
 
 ![deskripsi image - padi](./padi.jpg)
+
+pada event kali ini blablabla
