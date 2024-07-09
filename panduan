@@ -1,0 +1,22 @@
+### Membuat halaman website baru
+
+di terminal ketik perintah: hugo new news/judul-halaman-yang-ingin-diinput/index.md
+
+### Cara memasukkan gambar thumbnail artikel
+
+klik kanan pada halaman index.md yang ingin ditambahkan gambarnya lalu klik "reveal folder in explorer"
+
+masukkan gambar yang ingin ditambahkan pada artikel ke folder tersebut
+
+copy nama file gambar yang ingin dijadikan thumbnail beserta file extensionnya (jpg/jpeg/png), lalu paste di seperti di bawah ini
+
+resources:
+- src: "nama-file-gambar.jpg"
+  title: ""
+  name: fimg
+
+### Mengupload halaman ke server
+
+klik icon source control (di bawah icon search).
+
+tuliskan message, klik commit. klik yes. klik tombol sync changes.
