@@ -953,10 +953,19 @@ footer hr.divider {
     9. TEMPLATE PAGES
   ====================================================*/
 
-.pages-header {
+  .pages-header {
     height: 100%;
     background-image: url("../img/images/pages-bg.jpg");
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.pages-header-precursor {
+    height: 100%;
+    background-image: url("../img/banner/saputra-precursor-nutrient-banner.jpg");
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -1245,8 +1254,9 @@ p.active {
 }
 
 .ws-right {
-    background-image: url("../img/images/introducing-saputra-technology.jpg");
+    /* background-image: url("../img/images/introducing-saputra-technology.jpg"); */
     /* height: 550px; */
+    background-image: url("../img/products/saputra-celltilizer-fp.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
